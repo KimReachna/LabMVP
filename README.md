@@ -2,7 +2,7 @@
 
 Year 3 - Module 2
 
-## Laboratory Work №4
+## Laboratory Work №4 - MVP
 
 **Topic 3.1:** Architectural patterns of MVP, MVVM, the use of the message bus.
 
